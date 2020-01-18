@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "12082805565",
+    "firebase_url": "https://eucomida-1d2f8.firebaseio.com",
+    "project_id": "eucomida-1d2f8",
+    "storage_bucket": "eucomida-1d2f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12082805565:android:84b4c7e81a8c46439ea354",
+        "android_client_info": {
+          "package_name": "com.eucomida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12082805565-fmsmg1trojjmcnje6i4u7067q66gv79r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eucomida",
+            "certificate_hash": "a2ca157129b5bdbbec6c0bd255a6a6b944cf0d64"
+          }
+        },
+        {
+          "client_id": "12082805565-4hj1fniv9kmleb4oif60lg8fg7cpc0up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb3lgEmubHVX5l_M6VZGLKX2pEkgyxKsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12082805565-4hj1fniv9kmleb4oif60lg8fg7cpc0up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
